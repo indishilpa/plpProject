@@ -1,0 +1,8 @@
+....................Shilpa Goel ... 49199201 ........
+
+This is a list of known bugs in this RPAL interpreter.
+
+1. It does not print the line number if given a wrong input file. It will mention that there is an error but not state on which line.
+
+2. The program given by Professor gets a segmentation fault when the entire file is commented.
+
